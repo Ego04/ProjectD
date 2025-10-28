@@ -13,7 +13,7 @@ body {
 }
 
 /* フォーム全体を囲むコンテナ */
-/*.container {
+.container {
     background-color: #ffffff;
     padding: 30px 40px;
     border-radius: 12px;
@@ -21,7 +21,7 @@ body {
     width: 100%;
     max-width: 400px;
     box-sizing: border-box;
-}*/
+}
 
 h1 {
     text-align: center;
@@ -117,4 +117,3 @@ button[type="submit"]:active {
     padding: 0 4%;
     justify-content: space-between;
 }
-/* ... 他の既存CSSは省略 ... */
